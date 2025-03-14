@@ -18,7 +18,7 @@ Clona el repositorio o descarga los archivos del proyecto.
 
 bash
 Copy
-git clone https://github.com/cristian-h-h/Juego-Amigo-Secreto-Allura/new/main?filename=README.md
+git clone https://github.com/cristian-h-h/Juego-Amigo-Secreto-Allura.git
 Abre el archivo index.html en tu navegador.
 
 Dependencias
